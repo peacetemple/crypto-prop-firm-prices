@@ -1,0 +1,1445 @@
+{
+  "site": "https://cryptopropfirms.com",
+  "compiled": "2026-11-08",
+  "about": "Crypto prop firm terms quoted from each firm's own published pages. No star ratings, no review counts, no claim of having traded the accounts.",
+  "how_to_cite": "CryptoPropfirms.com, 'Best Crypto Prop Firms 2027', compiled 2026-11-08, https://cryptopropfirms.com/",
+  "disclosure": "Some links on this site are affiliate links. If you open an account through one, we may earn a commission at no extra cost to you. Commission never changes what we publish: firms are listed on published terms, and any firm that pays for placement would be labelled as such.",
+  "firms": [
+    {
+      "name": "E8Markets",
+      "url": "https://cryptopropfirms.com/firms/e8-markets.html",
+      "site": "https://e8markets.com/",
+      "challenge_types": [
+        "1-step"
+      ],
+      "cheapest": {
+        "price_usd": 16,
+        "account_size": "5000",
+        "product": "E8 Pro Perpetual",
+        "source": "https://e8markets.com/e8-pro?market=perpetual"
+      },
+      "price_25k_usd": 132,
+      "price_25k_plan": "E8 One",
+      "price_25k_list_usd": 188,
+      "discount_code": "E8",
+      "profit_split": "80% / 90% / 100% chosen at purchase",
+      "drawdown_25k": "6% dynamic drawdown (trails closed profit), ~4% daily drawdown (E8 One)",
+      "target_25k": "9% (E8 One default; configurable 6-21%)",
+      "leverage": "Classic markets: forex 1:30, indices/metals/energy 1:15, crypto 1:1. Perpetual futures: BTC 1:15, ETH 1:15, other crypto 1:2",
+      "max_allocation": "Unlimited challenge accounts; $500,000 max active performance allocation on E8 One",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "trailing",
+        "daily_loss": "4%",
+        "consistency": "yes",
+        "consistency_note": "40% best day, performance stage only",
+        "min_trading_days": 0,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://e8markets.com/e8-one",
+        "quote": "This is not traditional Trailing drawdown. The loss level of our Dynamic Drawdown will only increase when you are closing profits.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "~4% on E8 One and E8 One Perpetual; 2.5% on E8 Pro and E8 Pro Perpetual"
+      },
+      "payout_methods": [
+        "Rise Works",
+        "WorkMarket",
+        "Aeropay"
+      ],
+      "payout_speed": "On-demand; E8 One first payout from day 3 of the performance stage, then any time; E8 Pro daily",
+      "instruments": "Forex, indices, metals, energies, stocks, crypto (Classic); crypto perpetual futures on the Hyperliquid feed incl. BTC, ETH, alts, 24/7",
+      "instant_product": null,
+      "verified_on": "2026-10-31",
+      "sources": [
+        "https://e8markets.com/compare-simfi-funded-accounts",
+        "https://e8markets.com/e8-pro?market=perpetual",
+        "https://e8markets.com/e8-markets-discount-code",
+        "https://e8markets.com/e8-pro",
+        "https://e8markets.com/e8-one",
+        "https://help.e8markets.com/en/articles/5514982-how-much-leverage-do-you-offer",
+        "https://help.e8markets.com/en/articles/16769844-what-are-perpetual-futures",
+        "https://help.e8markets.com/en/articles/13106558-all-product-overviews-e8-one-vs-e8-zero-vs-e8-pro-vs-e8-signature",
+        "https://help.e8markets.com/en/articles/15272556-everything-about-payouts-when-how-how-fast",
+        "https://help.e8markets.com/en/articles/6463833-is-verification-required",
+        "https://help.e8markets.com/en/articles/5514278-accepted-countries",
+        "https://e8markets.com/",
+        "https://help.e8markets.com/en/articles/17338671-winter-arc-promotion"
+      ]
+    },
+    {
+      "name": "Blue Guardian",
+      "url": "https://cryptopropfirms.com/firms/blue-guardian.html",
+      "site": "https://blueguardian.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant",
+        "deferred"
+      ],
+      "cheapest": {
+        "price_usd": 19,
+        "account_size": "5000",
+        "product": "1 Step Nano",
+        "source": "https://blueguardian.com/forex"
+      },
+      "price_25k_usd": 94,
+      "price_25k_plan": "1 Step Standard",
+      "price_25k_list_usd": 134,
+      "discount_code": "NOV30",
+      "profit_split": "85% default, 90% with paid add-on",
+      "drawdown_25k": "6% trailing, 4% daily (1 Step Standard)",
+      "target_25k": "9% (1 Step Standard)",
+      "leverage": "Forex 1:50 (1:100 on 1 Step Standard challenge), indices/metals 1:10-1:20, crypto 1:2",
+      "max_allocation": "$400,000 active funded allocation; scaling plan to $4,000,000",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "trailing",
+        "daily_loss": "3-4%",
+        "consistency": "no",
+        "consistency_note": "1 Step has none; Instant applies 20%",
+        "min_trading_days": 3,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "none on 1 Step; $10k cap on first two payouts for 200k+ Instant",
+        "source": "https://help.blueguardian.com/en/articles/14062186-1-step-standard-rules",
+        "quote": "1 step standard maximum drawdown will remain at 6% trailing of your Highest Watermark Closing Trade made.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "4% on 1 Step Standard, 1 Step Nano and 2 Step Standard; 3% on 2 Step Nano and Instant"
+      },
+      "payout_methods": [
+        "Crypto (BTC/ETH/USDT, $100 min, under $5,000)",
+        "Rise Works (bank, $500 min)"
+      ],
+      "payout_speed": "Instant accounts on-demand; challenge accounts every 14 days, 7-day add-on; processing within 24 business hours",
+      "instruments": "Forex, indices, gold and commodities, cryptocurrencies; crypto commission $0",
+      "instant_product": {
+        "name": "Instant Standard",
+        "split_at_first_payout": 80,
+        "split_max": 90,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 6,
+        "daily_loss_pct": 3,
+        "min_profitable_days": 5,
+        "first_payout_rule": "On demand after five profitable days of at least 0.5% each",
+        "source": "https://blueguardian.com/blogs/blue-guardian-forex-accounts-explained"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://blueguardian.com/forex",
+        "https://help.blueguardian.com/en/articles/9661525-platform-rules",
+        "https://help.blueguardian.com/en/articles/9660857-how-do-payouts-work",
+        "https://help.blueguardian.com/en/articles/15618204-general-information-rules",
+        "https://blueguardian.com/blogs/young-entrepreneur-sean-bainton-built-a-prop-firm-that-paid-25million-to-traders-worldwide",
+        "https://blueguardian.com/about-us",
+        "https://help.blueguardian.com/en/articles/9661430-how-does-max-drawdown-works-on-2step-standard-2step-classic-2step-pro-3step"
+      ]
+    },
+    {
+      "name": "Breakout Prop Firm",
+      "url": "https://cryptopropfirms.com/firms/breakout-prop-firm.html",
+      "site": "https://www.breakoutprop.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step"
+      ],
+      "cheapest": {
+        "price_usd": 20,
+        "account_size": "5000",
+        "product": "1-Step Turbo",
+        "source": "https://tools.breakoutprop.com/breakout"
+      },
+      "price_25k_usd": 95,
+      "price_25k_plan": "1-Step Turbo",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% (90% at checkout)",
+      "drawdown_25k": "Static: 3% (Turbo) / 5% (Pro) / 6% (Classic)",
+      "target_25k": "9% (1-Step Turbo) / 12% (1-Step Pro) / 10% (1-Step Classic)",
+      "leverage": "1:100",
+      "max_allocation": "$200,000 across all accounts",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 0,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated ($50 minimum payout)",
+        "source": "https://www.breakoutprop.com/program-rules/",
+        "quote": "Set once at account creation from the starting balance and never moves, regardless of profit or loss.",
+        "checked": "2026-10-28"
+      },
+      "payout_methods": [
+        "USDC (ERC-20)"
+      ],
+      "payout_speed": "On demand, 24/7",
+      "instruments": "Crypto (perpetual futures); the firm also lists equities and commodities",
+      "instant_product": null,
+      "verified_on": "2026-10-25",
+      "sources": [
+        "https://tools.breakoutprop.com/breakout",
+        "https://www.breakoutprop.com/program-rules/",
+        "https://www.breakoutprop.com/pricing/",
+        "https://www.breakoutprop.com/okf/pricing.md",
+        "https://intercom.help/breakoutprop/en/articles/11644118-which-countries-are-ineligible-for-breakout-services"
+      ]
+    },
+    {
+      "name": "Kraken Prop",
+      "url": "https://cryptopropfirms.com/firms/kraken-prop.html",
+      "site": "https://www.kraken.com/prop",
+      "challenge_types": [
+        "1-step"
+      ],
+      "cheapest": {
+        "price_usd": 20,
+        "account_size": "5000",
+        "product": "Advanced 1-step",
+        "source": "https://www.kraken.com/prop"
+      },
+      "price_25k_usd": 95,
+      "price_25k_plan": "Advanced",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% (90% add-on)",
+      "drawdown_25k": "3% max drawdown and 3% daily, Advanced",
+      "target_25k": "9% (Advanced) / 12% (Intermediate) / 10% (Starter)",
+      "leverage": "Up to 5x on crypto",
+      "max_allocation": "$200,000 across all accounts",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 0,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://support.kraken.com/articles/maximum-drawdown-mdd-explained",
+        "quote": "The limit is fixed at a set level below your starting balance. It does not change regardless of how much profit you make.",
+        "checked": "2026-10-28"
+      },
+      "payout_methods": [
+        "USD to your Kraken wallet",
+        "USDG to your Kraken wallet"
+      ],
+      "payout_speed": "Typically 12 hours, guaranteed within 24",
+      "instruments": "60+ crypto pairs on perpetual-style contracts",
+      "instant_product": null,
+      "verified_on": "2026-10-25",
+      "sources": [
+        "https://www.kraken.com/prop",
+        "https://support.kraken.com/articles/kraken-prop-faq",
+        "https://support.kraken.com/articles/deposit-and-withdrawal-limits"
+      ]
+    },
+    {
+      "name": "Funded Trader Markets",
+      "url": "https://cryptopropfirms.com/firms/funded-trader-markets.html",
+      "site": "https://fundedtradermarkets.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 20,
+        "account_size": "5000",
+        "product": "1 Step Nitro",
+        "source": "https://fundedtradermarkets.com/llms.txt"
+      },
+      "price_25k_usd": 59,
+      "price_25k_plan": "1 Step Nitro",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "Up to 90%",
+      "drawdown_25k": "6% overall trailing, 4% daily (1 Step Nitro)",
+      "target_25k": "10% (1 Step Nitro) / 8% then 5% (2 Step Plus)",
+      "leverage": "BTC/ETH 1:5, other crypto 1:2, FX 1:100",
+      "max_allocation": "$300,000 per account",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "4%",
+        "consistency": "yes",
+        "consistency_note": "best day max 45% funded / 50% eval (1-Step)",
+        "min_trading_days": 5,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "$5,000 per reward on 1-Step Nitro X",
+        "payout_cap_25k": 5000,
+        "source": "https://fundedtradermarkets.com/1-step",
+        "quote": "Overall DD 6% $6,000 Trailing Lock ... Overall DD 10% $10,000 Balance Based",
+        "checked": "2026-10-28",
+        "daily_loss_note": "4% on 1 Step Nitro and 2 Step Plus; 3% on Instant Standard"
+      },
+      "payout_methods": [
+        "USDC",
+        "USDT",
+        "BTC",
+        "ETH",
+        "SOL",
+        "Rise"
+      ],
+      "payout_speed": "24-hour guarantee, average around 20 minutes",
+      "instruments": "76 instruments including roughly 40 crypto CFDs",
+      "instant_product": {
+        "name": "Instant Standard",
+        "split_at_first_payout": 50,
+        "split_max": 80,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 5,
+        "daily_loss_pct": 3,
+        "min_profitable_days": 5,
+        "first_payout_rule": "On demand after five profitable days of at least 0.5% each",
+        "source": "https://fundedtradermarkets.com/faq/category/instant-funding"
+      },
+      "verified_on": "2026-10-25",
+      "sources": [
+        "https://fundedtradermarkets.com/llms.txt",
+        "https://fundedtradermarkets.com/faq/category/account-rules"
+      ]
+    },
+    {
+      "name": "AquaFunded",
+      "url": "https://cryptopropfirms.com/firms/aquafunded.html",
+      "site": "https://aquafunded.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "3-step",
+        "instant",
+        "deferred"
+      ],
+      "cheapest": {
+        "price_usd": 20,
+        "account_size": "5000",
+        "product": "2-Step Pro",
+        "source": "https://aquafunded.com/forex-funded-account"
+      },
+      "price_25k_usd": 194.93,
+      "price_25k_plan": "1-Step Standard",
+      "price_25k_list_usd": 227,
+      "discount_code": null,
+      "profit_split": "90% (100% with add-on)",
+      "drawdown_25k": "6% max trailing, 3% daily (1-Step Standard)",
+      "target_25k": "9% (1-Step Standard) / 8% then 5% (2-Step)",
+      "leverage": "1:100 forex / 1:20 indices / 1:20 commodities / 1:2 crypto (evaluation); 1:50 forex / 1:2 crypto (funded)",
+      "max_allocation": "$400,000 per funded account (up to $4,000,000 via scaling plan)",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "3-5%",
+        "consistency": "yes",
+        "consistency_note": "15-20% single day on instant models; none on Flex",
+        "min_trading_days": 3,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "$10,000 per payout for first two on $100k+ accounts; none after",
+        "source": "https://help.aquafunded.com/en/articles/15281078-instant-funding-pro",
+        "quote": "This is a trailing drawdown, meaning the drawdown limit moves upward whenever your account reaches a new equity high.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "5% on 2-Step Standard and 2-Step Pro; 3% on 1-Step Standard, 1-Step Pro, Aqua Man and Instant Funding Pro; 4% on 3-Step Standard; none on Instant Funding Standard"
+      },
+      "payout_methods": [
+        "Crypto (BTC, ETH, USDC ERC20/TRC20)",
+        "Rise (bank transfer or crypto)"
+      ],
+      "payout_speed": "Bi-weekly, 24 business-hour guarantee",
+      "instruments": "Forex pairs, indices, commodities and crypto CFDs on the CFD accounts (crypto 24/7 at 1:2 leverage); separate futures product via AquaFutures",
+      "instant_product": {
+        "name": "Instant Funding Pro",
+        "split_at_first_payout": 90,
+        "split_max": 90,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 6,
+        "daily_loss_pct": 3,
+        "min_profitable_days": 5,
+        "first_payout_rule": "Every 14 days, after five profitable days",
+        "source": "https://help.aquafunded.com/en/articles/15281078-instant-funding-pro"
+      },
+      "verified_on": "2026-10-29",
+      "sources": [
+        "https://checkout.aquafunded.com/",
+        "https://aquafunded.com/forex-rules",
+        "https://aquafunded.com/forex-funded-account",
+        "https://aquafunded.com/rewards",
+        "https://aquafunded.com/how-it-works",
+        "https://aquafunded.com/about-us",
+        "https://aquafunded.com/legal/terms-and-conditions",
+        "https://help.aquafunded.com/en/articles/9250906-how-do-rewards-work",
+        "https://help.aquafunded.com/en/articles/9250919-what-is-the-profit-split",
+        "https://help.aquafunded.com/en/articles/9251052-are-there-any-countries-we-cannot-trade-from",
+        "https://help.aquafunded.com/en/articles/9251075-what-is-the-maximum-capital-i-am-allowed",
+        "https://help.aquafunded.com/en/articles/15281183-1-step-standard",
+        "https://crypto.aquafunded.com/",
+        "https://www.aquafunded.com/blogs/what-happens-after-you-pass-a-prop-firm-challenge",
+        "https://help.aquafunded.com/en/articles/15281185-1-step-pro",
+        "https://help.aquafunded.com/en/articles/15281226-2-step-standard",
+        "https://help.aquafunded.com/en/articles/15281229-2-step-pro",
+        "https://help.aquafunded.com/en/articles/10476458-3-step-model",
+        "https://help.aquafunded.com/en/articles/11018168-aquaman-model",
+        "https://help.aquafunded.com/en/articles/15281077-instant-funding-standard",
+        "https://help.aquafunded.com/en/articles/15281078-instant-funding-pro"
+      ]
+    },
+    {
+      "name": "Propr",
+      "url": "https://cryptopropfirms.com/firms/propr.html",
+      "site": "https://www.propr.xyz/",
+      "challenge_types": [
+        "1-step",
+        "2-step"
+      ],
+      "cheapest": {
+        "price_usd": 25,
+        "account_size": "5000",
+        "product": "Turbo 1-Step",
+        "source": "https://www.propr.xyz/rules"
+      },
+      "price_25k_usd": 125,
+      "price_25k_plan": "Turbo 1-Step",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80%",
+      "drawdown_25k": "3% static max and 3% daily (Turbo 1-Step)",
+      "target_25k": "9% (Turbo 1-Step)",
+      "leverage": "Up to 10x BTC/ETH/SOL, 2x other crypto",
+      "max_allocation": "$300,000 across accounts",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "3-5%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 0,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://www.propr.xyz/rules",
+        "quote": "On 1-Step accounts it is a fixed percentage below your starting balance and never moves.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "5% on Classic 2-Step; 3% on Turbo 1-Step, Pro 1-Step and Classic 1-Step"
+      },
+      "payout_methods": [
+        "USDC on-chain"
+      ],
+      "payout_speed": "Within 24 hours, site reports an 8m 16s median",
+      "instruments": "160+ perpetual futures on Hyperliquid: crypto, equities, indices, commodities and FX",
+      "instant_product": null,
+      "verified_on": "2026-11-01",
+      "sources": [
+        "https://www.propr.xyz/rules",
+        "https://www.propr.xyz/faq/payouts"
+      ]
+    },
+    {
+      "name": "City Traders Imperium",
+      "url": "https://cryptopropfirms.com/firms/city-traders-imperium.html",
+      "site": "https://citytradersimperium.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 29,
+        "account_size": "2500",
+        "product": "1-Step Challenge",
+        "source": "https://citytradersimperium.com/1-step-challenge/"
+      },
+      "price_25k_usd": 199,
+      "price_25k_plan": "2-Step Challenge",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80%, up to 100% via VIP",
+      "drawdown_25k": "10% static, 5% daily (2-Step Challenge)",
+      "target_25k": "10% then 5% (2-Step Challenge)",
+      "leverage": "Crypto 1:2, FX 1:30",
+      "max_allocation": "$400,000 on challenges, up to $4M on instant and direct",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "5%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 3,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated (max $200,000 per account)",
+        "source": "https://helpcenter.citytradersimperium.com/en/articles/12878081-max-absolute-drawdown-mad",
+        "quote": "2-Step Challenge = 10% of Initial Balance ... your drawdown limit never moves, no matter how much profit you make.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "5% on 2-Step Challenge; none on 1-Step Challenge, Instant Funding and Direct Funding"
+      },
+      "payout_methods": [
+        "Bank transfer",
+        "Crypto wallet",
+        "Dashboard wallet"
+      ],
+      "payout_speed": "Within 24 hours, roughly 8 hours average",
+      "instruments": "53 symbols including six crypto pairs quoted in USD",
+      "instant_product": {
+        "name": "Instant Funding",
+        "split_at_first_payout": 50,
+        "split_max": 80,
+        "drawdown_type": "static",
+        "drawdown_pct": 6,
+        "daily_loss_pct": null,
+        "min_profitable_days": 5,
+        "first_payout_rule": "After 10% profit and five profitable days",
+        "source": "https://citytradersimperium.com/instant-funding/"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://citytradersimperium.com/2-step-challenge/",
+        "https://citytradersimperium.com/symbols-specifications-trading-hours/"
+      ]
+    },
+    {
+      "name": "FundedNext",
+      "url": "https://cryptopropfirms.com/firms/fundednext.html",
+      "site": "https://fundednext.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 29.99,
+        "account_size": "5000",
+        "product": "Stellar Lite",
+        "source": "https://fundednext.com/cfds/stellar-lite"
+      },
+      "price_25k_usd": 199.99,
+      "price_25k_plan": "Stellar 2-Step",
+      "price_25k_list_usd": null,
+      "discount_code": "NOVSTR",
+      "profit_split": "80%, up to 95% with add-ons",
+      "drawdown_25k": "10% max static, 5% daily (Stellar 2-Step)",
+      "target_25k": "8% then 5% (Stellar 2-Step)",
+      "leverage": "Crypto 1:1, FX 1:30",
+      "max_allocation": "Up to $4M through scaling",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": [
+          {
+            "authority": "Bank of Russia",
+            "date": "2026-09-17",
+            "reference": "47769",
+            "category": "signs of an illegal professional participant in the securities market",
+            "url": "https://www.cbr.ru/inside/warning-list/detail/?id=47769"
+          }
+        ]
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "5%",
+        "consistency": "yes",
+        "consistency_note": "40% best-day cap, on-demand payouts only",
+        "min_trading_days": 5,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated (payment-method limits only)",
+        "source": "https://help.fundednext.com/en/articles/8019915-what-is-the-maximum-loss-limit",
+        "quote": "Traders are allowed a maximum loss of 6% of their initial balance, meaning for a $100k account trader's balance cannot drop below $94,000.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "5% on Stellar 2-Step, 3% on Stellar 1-Step, 4% on Stellar Lite, none on Stellar Instant"
+      },
+      "payout_methods": [
+        "USDT (ERC-20/TRC-20)",
+        "USDC (ERC-20)",
+        "RiseWorks",
+        "Bank transfer"
+      ],
+      "payout_speed": "Within 24 hours, with a $1,000 penalty if late",
+      "instruments": "CFDs on FX, indices, metals, energies, stocks and crypto",
+      "instant_product": {
+        "name": "Stellar Instant",
+        "split_at_first_payout": 70,
+        "split_max": 80,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 6,
+        "daily_loss_pct": null,
+        "min_profitable_days": null,
+        "first_payout_rule": "On demand at 5% growth, otherwise every 14 days with 1% banked",
+        "source": "https://help.fundednext.com/en/articles/17253243-stellar-instant-account"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://fundednext.com/cfds/stellar-2-step",
+        "https://help.fundednext.com/en/articles/11641161-how-much-does-each-stellar-instant-account-cost",
+        "https://fundednext.com/reward"
+      ]
+    },
+    {
+      "name": "MyFundedPerps",
+      "url": "https://cryptopropfirms.com/firms/my-funded-perps.html",
+      "site": "https://myfundedperpetuals.com/",
+      "challenge_types": [
+        "1-step"
+      ],
+      "cheapest": {
+        "price_usd": 30,
+        "account_size": "10000",
+        "product": "Select",
+        "source": "https://myfundedperpetuals.com/"
+      },
+      "price_25k_usd": 75,
+      "price_25k_plan": "Select",
+      "price_25k_list_usd": 100,
+      "discount_code": "ELITE",
+      "profit_split": "80% (90% with paid upgrade)",
+      "drawdown_25k": "3% static max, 3% daily, Select",
+      "target_25k": "9% (Select) / 12% (Prime) / 10% (Signature) / 10% (Elite)",
+      "leverage": "Set per market rather than per account: BTC 10x, ETH 8x, SOL 5x, gold 10x, oil 8x, NAS100 12x, and 2x to 4x on most altcoins and single stocks",
+      "max_allocation": "$300,000 in funded accounts across all plans, and $100,000 per plan type",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-11-03",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3%",
+        "consistency": "no",
+        "min_trading_days": 0,
+        "min_days_note": "No minimum on the evaluation. An evaluation fails after 30 consecutive days without an executed trade, and a funded account after 7.",
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated (a $100,000 lifetime cap across all accounts applies)",
+        "source": "https://myfundedperpetuals.com/faq",
+        "quote": "Static. The maximum loss floor is your starting balance minus the MLL, and it doesn't trail your profits.",
+        "checked": "2026-11-03"
+      },
+      "payout_methods": [
+        "Rise (cash)",
+        "Store credit"
+      ],
+      "payout_speed": "On request once funded: Select, Prime and Signature one request per New York calendar day, Elite at any time. Every request is reviewed by hand and no processing time is published.",
+      "instruments": "Crypto perpetuals around the clock (BTC, ETH, SOL, XRP, DOGE, HYPE, ZEC and more) plus gold, silver, oil, indices, single US stocks and six FX pairs",
+      "instant_product": null,
+      "verified_on": "2026-11-03",
+      "sources": [
+        "https://myfundedperpetuals.com/",
+        "https://myfundedperpetuals.com/faq",
+        "https://myfundedperpetuals.com/markets",
+        "https://myfundedperpetuals.com/terms",
+        "https://payoutjunction.com/firms/myfundedperps"
+      ]
+    },
+    {
+      "name": "Velotrade",
+      "url": "https://cryptopropfirms.com/firms/velotrade.html",
+      "site": "https://velotrade.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step"
+      ],
+      "cheapest": {
+        "price_usd": 32,
+        "account_size": "5000",
+        "product": "PRO 1-Step",
+        "source": "https://velotrade.com/challenges"
+      },
+      "price_25k_usd": 132,
+      "price_25k_plan": "PRO 1-Step",
+      "price_25k_list_usd": 165,
+      "discount_code": "BOTS20",
+      "profit_split": "80% (90% add-on)",
+      "drawdown_25k": "3% static / 3% daily (PRO 1-Step)",
+      "target_25k": "10% (PRO 1-Step)",
+      "leverage": "Crypto 1:10 BTC challenge (1:5 funded), 1:6 ETH/SOL",
+      "max_allocation": "$200,000",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3-5%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 5,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated ($100 minimum payout)",
+        "source": "https://velotrade.com/rules",
+        "quote": "Your Maximum Drawdown is a fixed dollar floor, calculated once on account activation from your initial balance. It never moves",
+        "checked": "2026-10-28",
+        "daily_loss_note": "5% on CLASSIC 2-Step, 3% on PRO 1-Step, 4% on CLASSIC 1-Step"
+      },
+      "payout_methods": [
+        "USDC on Arbitrum",
+        "USDT on Arbitrum"
+      ],
+      "payout_speed": "First payout 14 days after the first funded trade, then weekly",
+      "instruments": "234 instruments including 104 crypto",
+      "instant_product": null,
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://velotrade.com/challenges",
+        "https://velotrade.com/payouts"
+      ]
+    },
+    {
+      "name": "Bitfunded",
+      "url": "https://cryptopropfirms.com/firms/bitfunded.html",
+      "site": "https://www.bitfunded.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 39,
+        "account_size": "5000",
+        "product": "1-Step Express",
+        "source": "https://www.bitfunded.com/challenges/"
+      },
+      "price_25k_usd": 124,
+      "price_25k_plan": "1-Step Express",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80%",
+      "drawdown_25k": "10% total (2-Step) / 6% (1-Step) / 3% (1-Step Express)",
+      "target_25k": "8% then 5% (2-Step) / 10% (1-Step) / 9% (1-Step Express)",
+      "leverage": "1:100",
+      "max_allocation": "$150,000 USDT",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3-5%",
+        "consistency": "unknown",
+        "consistency_note": "",
+        "min_trading_days": 0,
+        "news_trading": "unknown",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://www.bitfunded.com/faq/",
+        "quote": "It's a fixed percentage of your starting balance and it doesn't move for the life of the challenge.",
+        "checked": "2026-11-03",
+        "daily_loss_note": "5% on 2-Step; 3% on 1-Step Express and Instant; 4% on 1-Step"
+      },
+      "payout_methods": [
+        "USDT"
+      ],
+      "payout_speed": "Within 24 hours of the profit split day",
+      "instruments": "100+ crypto pairs plus 20 TradFi pairs, both tradable on the challenge accounts; traditional pairs carry a 5-day holding limit",
+      "instant_product": {
+        "name": "Instant",
+        "split_at_first_payout": 60,
+        "split_max": 60,
+        "drawdown_type": "static",
+        "drawdown_pct": 6,
+        "daily_loss_pct": 3,
+        "min_profitable_days": null,
+        "first_payout_rule": "Whenever you set your Profit Sharing Day, then one a month",
+        "source": "https://bitfunded.gitbook.io/support/introduction/challenge-and-trader-stage"
+      },
+      "verified_on": "2026-11-03",
+      "sources": [
+        "https://www.bitfunded.com/how-to-choose-the-right-prop-trading-challenge-2-/",
+        "https://www.bitfunded.com/frequently-asked-questions/",
+        "https://www.bitfunded.com/",
+        "https://www.bitfunded.com/challenges/",
+        "https://bitfunded.gitbook.io/support/introduction/challenge-and-trader-stage"
+      ]
+    },
+    {
+      "name": "Fundedbit",
+      "url": "https://cryptopropfirms.com/firms/fundedbit.html",
+      "site": "https://fundedbit.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "deferred"
+      ],
+      "cheapest": {
+        "price_usd": 39,
+        "account_size": "5000",
+        "product": "2-Step",
+        "source": "https://checkout.fundedbit.com/checkout/"
+      },
+      "price_25k_usd": 153,
+      "price_25k_plan": "1-Step",
+      "price_25k_list_usd": 219,
+      "discount_code": null,
+      "profit_split": "80% (up to 100% on Fast Track)",
+      "drawdown_25k": "6% trailing (1-step) / 10% static (2-step)",
+      "target_25k": "10% (1-step) / 10% + 5% (2-step)",
+      "leverage": "1:30, with 2% maximum exposure per pair",
+      "max_allocation": "$100,000 per account",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "3-5%",
+        "consistency": "yes",
+        "consistency_note": "best day max 40% of profit (20% Fast Track)",
+        "min_trading_days": 4,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://fundedbit.com/programs/",
+        "quote": "The Maximum Total Loss is 6% of the starting account balance and is applied as a trailing drawdown.",
+        "checked": "2026-10-28"
+      },
+      "payout_methods": [
+        "Crypto payouts (firm's zero-denial policy)"
+      ],
+      "payout_speed": "After the profit split day, on request",
+      "instruments": "Crypto pairs on Bybit",
+      "instant_product": null,
+      "verified_on": "2026-10-29",
+      "sources": [
+        "https://fundedbit.com/programs/",
+        "https://fundedbit.com/faq/",
+        "https://checkout.fundedbit.com/checkout/"
+      ]
+    },
+    {
+      "name": "Crypto Fund Trader",
+      "url": "https://cryptopropfirms.com/firms/crypto-fund-trader.html",
+      "site": "https://cryptofundtrader.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 40,
+        "account_size": "5000",
+        "product": "5.000 Accelerated",
+        "source": "https://cryptofundtrader.com/shop/"
+      },
+      "price_25k_usd": 240,
+      "price_25k_plan": "Evaluation",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80%",
+      "drawdown_25k": "10% total (Evaluation)",
+      "target_25k": "8% then 5% (Evaluation)",
+      "leverage": "1:100",
+      "max_allocation": "$300,000",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "4-5%",
+        "daily_loss_note": "4% on the 1-Phase Evaluation, 5% on the 2-Phase",
+        "consistency": "yes",
+        "consistency_note": "Break Final Stage only: 40% max single day",
+        "min_trading_days": 15,
+        "min_days_note": "or every 30 calendar days; 7 with the Weekly Payouts add-on",
+        "min_days_source": "https://cryptofundtrader.com/faq/",
+        "min_days_quote": "The minimum number of traded days required to request a scholarship reward is 15 days, or alternatively, every 30 calendar days. If you have the Weekly Payouts add-on, you can request a scholarship reward every 7 traded days. There is no minimum number of trading days required for evaluations. No waiting periods.",
+        "min_days_checked": "2026-11-02",
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated (max $10,000 simulated profit per day or trade)",
+        "source": "https://cryptofundtrader.com/faq/",
+        "quote": "The trailing drawdown applies only to the 1-Phase Evaluation and Break Evaluations.",
+        "checked": "2026-11-03"
+      },
+      "payout_methods": [
+        "BTC",
+        "USDT",
+        "USDC",
+        "Deel"
+      ],
+      "payout_speed": "On demand after the first payout",
+      "instruments": "540+ crypto pairs, 39 forex pairs, indices, commodities and stocks",
+      "instant_product": null,
+      "verified_on": "2026-10-29",
+      "sources": [
+        "https://cryptofundtrader.com/shop/",
+        "https://cryptofundtrader.com/product/5-000-accelerated/",
+        "https://cryptofundtrader.com/choose-your-challenge/",
+        "https://cryptofundtrader.com/product/25-000-accelerated/",
+        "https://cryptofundtrader.com/"
+      ]
+    },
+    {
+      "name": "For Traders",
+      "url": "https://cryptopropfirms.com/firms/for-traders.html",
+      "site": "https://fortraders.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant",
+        "deferred"
+      ],
+      "cheapest": {
+        "price_usd": 41,
+        "account_size": "3000",
+        "product": "Instant Crypto",
+        "source": "https://fortraders.com/instant-funding"
+      },
+      "price_25k_usd": 116,
+      "price_25k_plan": "Fast PRO Crypto",
+      "price_25k_list_usd": 137,
+      "discount_code": "TRADE15",
+      "profit_split": "90% on Fast PRO",
+      "drawdown_25k": "4% trailing end-of-day (Fast PRO Crypto), no daily loss rule",
+      "target_25k": "6% (Fast PRO Crypto)",
+      "leverage": "Crypto up to 1:20 on Fast PRO, 1:5 BTC elsewhere",
+      "max_allocation": "$300,000 total, $200,000 per account",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "3%",
+        "consistency": "yes",
+        "consistency_note": "best day under 20% of total profit (Master)",
+        "min_trading_days": 3,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "$15,000 per reward",
+        "payout_cap_25k": 15000,
+        "source": "https://fortraders.com/our-rules",
+        "quote": "Maximum Drawdown - Trailing 6% ... on your Classic challenge, Max Drawdown-calculated from the initial balance of your account",
+        "checked": "2026-10-28",
+        "daily_loss_note": "3% on Fast Crypto and Instant Crypto; none on Fast PRO Crypto"
+      },
+      "payout_methods": [
+        "Bank transfer",
+        "Crypto"
+      ],
+      "payout_speed": "Within 48 hours, guaranteed",
+      "instruments": "70+ crypto pairs, 24/7 including weekends, plus FX, metals, indices and futures",
+      "instant_product": {
+        "name": "Instant Crypto",
+        "split_at_first_payout": 70,
+        "split_max": 90,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 5,
+        "daily_loss_pct": 3,
+        "min_profitable_days": 7,
+        "first_payout_rule": "After seven profitable days, then every 14 days",
+        "source": "https://help.fortraders.com/en/articles/11737088-instant-account-crypto"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://fortraders.com/markets/crypto",
+        "https://fortraders.com/our-rules"
+      ]
+    },
+    {
+      "name": "Instant Funding",
+      "url": "https://cryptopropfirms.com/firms/instant-funding.html",
+      "site": "https://instantfunding.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 44,
+        "account_size": "625",
+        "product": "Instant Funding PRO",
+        "source": "https://instantfunding.com/instant-funding/"
+      },
+      "price_25k_usd": 234,
+      "price_25k_plan": "IF Micro Pro",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% (90% add-on)",
+      "drawdown_25k": "6% static, 4% daily (IF Micro Pro)",
+      "target_25k": "No target: 5% profit unlocks payout (IF Micro Pro)",
+      "leverage": "Crypto 1:2, FX 1:100",
+      "max_allocation": "$1,000,000 combined",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 7,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://instantfunding.com/help/one-phase-crypto/",
+        "quote": "Your maximum loss is limited to 6% of your starting balance. This is calculated as a static loss from your original starting balance.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "3% on IF Micro Lite, 4% on IF Micro Pro, none on Instant Funding PRO"
+      },
+      "payout_methods": [
+        "USDC (ERC-20)",
+        "Rise bank transfer"
+      ],
+      "payout_speed": "Within 48 business hours",
+      "instruments": "40+ FX pairs plus crypto CFDs, 9 majors as standard",
+      "instant_product": {
+        "name": "Instant Funding PRO",
+        "split_at_first_payout": 80,
+        "split_max": 90,
+        "drawdown_type": "smart",
+        "drawdown_pct": 10,
+        "daily_loss_pct": null,
+        "min_profitable_days": null,
+        "first_payout_rule": "14 days after the first trade, then every 7 days, with 5% profit banked",
+        "source": "https://instantfunding.com/help/instant-funding-program/"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://instantfunding.com/instant-funding/",
+        "https://instantfunding.com/if-micro"
+      ]
+    },
+    {
+      "name": "DNA Funded",
+      "url": "https://cryptopropfirms.com/firms/dna-funded.html",
+      "site": "https://dnafunded.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 49,
+        "account_size": "5000",
+        "product": "Two Phase Evaluation",
+        "source": "https://dnafunded.com/product/5000-two-phase-evaluation-phase-1/"
+      },
+      "price_25k_usd": 179,
+      "price_25k_plan": "Single Phase Evaluation",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% (90% with add-on)",
+      "drawdown_25k": "6% max total, 4% daily (Single Phase)",
+      "target_25k": "10% (1 Phase Evaluation)",
+      "leverage": "1:50 forex / 1:10 indices / 1:10 commodities / 1:2 crypto / 1:5 stocks",
+      "max_allocation": "$600,000",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3-5%",
+        "consistency": "yes",
+        "consistency_note": "funded: one day max 30% of requested payout",
+        "min_trading_days": 5,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "5% of bankroll per payout, first 3 payouts only",
+        "source": "https://dnafunded.com/faq/drawdown/",
+        "quote": "For 1 phase, 2 phase and rapid challenge, your lifetime drawdown is static.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "5% on Two Phase Evaluation, 3% on Rapid 10-Day Challenge, 4% on Single Phase Evaluation, none on Instant Funding"
+      },
+      "payout_methods": [
+        "Crypto (USDT, BTC and other coins)",
+        "International bank transfer"
+      ],
+      "payout_speed": "14-day cycle, 24-48h processing",
+      "instruments": "Forex, indices, commodities, stocks and crypto CFDs (BTCUSD, ETHUSD, SOLUSD, XRPUSD on the published instrument list); crypto commission 0.01% of notional",
+      "instant_product": {
+        "name": "Instant Funding",
+        "split_at_first_payout": 80,
+        "split_max": 90,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 4,
+        "daily_loss_pct": null,
+        "min_profitable_days": 3,
+        "first_payout_rule": "Every 14 days, or every 7 with the earlier-payout add-on",
+        "source": "https://dnafunded.com/faqs"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://dnafunded.com/",
+        "https://dnafunded.com/product/25000-single-phase-evaluation/",
+        "https://dnafunded.com/wp-content/uploads/2027/10/DNA-Funded-Ltd-Rules-and-Conditions-V2.1-12.10.26.pdf",
+        "https://dnafunded.com/faqs/",
+        "https://dnafunded.com/contact-us/",
+        "https://dnafunded.com/wp-content/uploads/2027/05/DNA-Funded-24-hour-Instrument-List.pdf"
+      ]
+    },
+    {
+      "name": "FX2 Funding",
+      "url": "https://cryptopropfirms.com/firms/fx2-funding.html",
+      "site": "https://fx2funding.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 50,
+        "account_size": "5000",
+        "product": "2-Step",
+        "source": "https://fx2funding.com/funding-programs/"
+      },
+      "price_25k_usd": 235,
+      "price_25k_plan": "2-Step",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% base, 95% add-on",
+      "drawdown_25k": "10% static, 4% daily (2-Step)",
+      "target_25k": "8% then 5% (2-Step) / 10% (1-Step)",
+      "leverage": "Crypto 1:2, FX 1:100",
+      "max_allocation": "$300,000",
+      "kyc": "KYC before activation",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "4%",
+        "consistency": "no",
+        "consistency_note": "",
+        "min_trading_days": 0,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated (min payout 1% of balance)",
+        "source": "https://www.fx2funding.com/faq",
+        "quote": "The maximum drawdown starts at 6% below your starting balance and trails from the high water mark of your closed balance.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "4% on 1-Step and 2-Step; 5% on Instant Funding"
+      },
+      "payout_methods": [
+        "Crypto to wallet",
+        "Rise bank transfer"
+      ],
+      "payout_speed": "48 hours, average 8 hours",
+      "instruments": "FX, metals, indices, energies and crypto CFDs",
+      "instant_product": {
+        "name": "Instant Funding",
+        "split_at_first_payout": 80,
+        "split_max": 95,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 6,
+        "daily_loss_pct": 4,
+        "min_profitable_days": null,
+        "first_payout_rule": "One request every 30 days",
+        "source": "https://fx2funding.com/faqs/"
+      },
+      "verified_on": "2026-11-08",
+      "sources": [
+        "https://fx2funding.com/funding-programs/",
+        "https://fx2funding.com/faqs/"
+      ]
+    },
+    {
+      "name": "HyroTrader",
+      "url": "https://cryptopropfirms.com/firms/hyrotrader.html",
+      "site": "https://www.hyrotrader.com/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "zero-step"
+      ],
+      "cheapest": {
+        "price_usd": 59,
+        "account_size": "5000",
+        "product": "Two-Step",
+        "source": "https://www.hyrotrader.com/checkout/"
+      },
+      "price_25k_usd": 249,
+      "price_25k_plan": "Two-Step",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% to 90%",
+      "drawdown_25k": "10% total (2-Step) / 6% (1-Step) / 5% (Zero-Step)",
+      "target_25k": "10% then 5% (2-Step) / 10% (1-Step and Zero-Step)",
+      "leverage": "1:100",
+      "max_allocation": "$200,000",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "static",
+        "daily_loss": "3-5%",
+        "consistency": "yes",
+        "consistency_note": "40% max single day of target, evaluation only",
+        "min_trading_days": 5,
+        "news_trading": "allowed",
+        "weekend_holding": "allowed",
+        "payout_cap": "5% of initial balance per payout",
+        "payout_cap_25k": 1250,
+        "source": "https://www.hyrotrader.com/faq/rules/what-is-the-difference-between-standard-trailing-and-swing-fixed-daily-drawdown/",
+        "quote": "Every HyroTrader challenge uses a static daily drawdown. It applies to every challenge, so there's nothing to choose or buy.",
+        "checked": "2026-10-28",
+        "daily_loss_note": "3% on Zero-Step, 4% on One-Step, 5% on Two-Step"
+      },
+      "payout_methods": [
+        "USDT",
+        "USDC"
+      ],
+      "payout_speed": "Within 24 hours",
+      "instruments": "700+ cryptocurrencies, traded through Bybit or Binance",
+      "instant_product": null,
+      "verified_on": "2026-10-28",
+      "sources": [
+        "https://www.hyrotrader.com/",
+        "https://www.hyrotrader.com/terms-and-conditions/"
+      ]
+    },
+    {
+      "name": "FXIFY",
+      "url": "https://cryptopropfirms.com/firms/fxify.html",
+      "site": "https://fxify.com/",
+      "challenge_types": [
+        "1-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 59,
+        "account_size": "5000",
+        "product": "Crypto Standard 1-Step",
+        "source": "https://fxify.com/programs/crypto/"
+      },
+      "price_25k_usd": 249,
+      "price_25k_plan": "Crypto Standard 1-Step",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% bi-weekly or 100% monthly",
+      "drawdown_25k": "3% daily / 6% trailing (both programmes)",
+      "target_25k": "9% (Crypto Standard 1-Step) / none on Instant",
+      "leverage": "5:1 on BTC, ETH and SOL; 2:1 other crypto",
+      "max_allocation": "$100,000 per crypto account, no scaling",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": []
+      },
+      "rules": {
+        "drawdown_type": "trailing",
+        "daily_loss": "3%",
+        "consistency": "yes",
+        "consistency_note": "25% best day on crypto instant/funded",
+        "min_trading_days": 7,
+        "news_trading": "restricted",
+        "weekend_holding": "allowed",
+        "payout_cap": "none stated",
+        "source": "https://fxify.com/programs/crypto/",
+        "quote": "The Max Trailing Drawdown... moves (or trails) your High Water Mark ('HWM' - based on closed balance) until 6% profit made.",
+        "checked": "2026-10-28"
+      },
+      "payout_methods": [
+        "Rise (bank rails)",
+        "USDC/USDT where Rise is unavailable"
+      ],
+      "payout_speed": "Every 14 days, or monthly on the 100% split",
+      "instruments": "80+ crypto CFDs quoted against USDT",
+      "instant_product": {
+        "name": "Crypto Instant Funding",
+        "split_at_first_payout": 80,
+        "split_max": 90,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 6,
+        "daily_loss_pct": 3,
+        "min_profitable_days": null,
+        "first_payout_rule": "14 days after the first trade, then every 14 days",
+        "source": "https://intercom.help/fxify/en/articles/14945352-the-crypto-instant-funding-account"
+      },
+      "verified_on": "2026-10-25",
+      "sources": [
+        "https://fxify.com/programs/crypto/",
+        "https://fxify.com/faqs/all-faqs/crypto-accounts/crypto-account-what-is-the-leverage-available-for-the-account/"
+      ]
+    },
+    {
+      "name": "Upscale",
+      "url": "https://cryptopropfirms.com/firms/upscale.html",
+      "site": "https://upscale.trade/",
+      "challenge_types": [
+        "1-step",
+        "2-step",
+        "instant"
+      ],
+      "cheapest": {
+        "price_usd": 69,
+        "account_size": "5000",
+        "product": "Basic",
+        "source": "https://upscale.trade/crypto"
+      },
+      "price_25k_usd": 249,
+      "price_25k_plan": "Basic",
+      "price_25k_list_usd": null,
+      "discount_code": null,
+      "profit_split": "80% (90% upgrade)",
+      "drawdown_25k": "5% daily / 10% max (Basic)",
+      "target_25k": "5% then 8% (Basic) / 10% (Accelerated) / none on Turbo",
+      "leverage": "1:5",
+      "max_allocation": "$400,000 (Basic and Accelerated combined); $100,000 separate for Turbo",
+      "kyc": "KYC before payout",
+      "regulator": {
+        "checked_on": "2026-10-28",
+        "lists_checked": [
+          "Bank of Russia warning list"
+        ],
+        "notices": [
+          {
+            "authority": "Bank of Russia",
+            "date": "2026-02-17",
+            "reference": "42739",
+            "category": "signs of an illegal professional participant in the securities market",
+            "url": "https://www.cbr.ru/inside/warning-list/detail/?id=42739"
+          }
+        ]
+      },
+      "rules": {
+        "drawdown_type": "mixed",
+        "daily_loss": "3-5%",
+        "daily_loss_note": "3% on Accelerated, 5% on Basic, none on Turbo",
+        "consistency": "yes",
+        "consistency_note": "Turbo/API accounts only: 30% max single day",
+        "min_trading_days": 3,
+        "news_trading": "allowed",
+        "weekend_holding": "restricted",
+        "payout_cap": "15-50% of account size per payout, by size",
+        "payout_cap_25k": 10000,
+        "source": "https://upscale.trade/faq",
+        "quote": "On Turbo the maximum drawdown is 6% of the highest balance reached. It is dynamic: it is recalculated at every new balance high",
+        "checked": "2026-11-03"
+      },
+      "payout_methods": [
+        "USDT (TON)",
+        "USDT (Base)",
+        "USDT (BSC)"
+      ],
+      "payout_speed": "Within 48 hours",
+      "instruments": "105 cryptocurrencies, traded 24/7 including weekends",
+      "instant_product": {
+        "name": "Turbo (instant)",
+        "split_at_first_payout": 80,
+        "split_max": 90,
+        "drawdown_type": "trailing",
+        "drawdown_pct": 6,
+        "daily_loss_pct": null,
+        "min_profitable_days": 5,
+        "first_payout_rule": "After five profit days in a 14-calendar-day payment period, and only while the balance is above the iteration's starting balance",
+        "source": "https://docs.upscale.trade/how-to-join-upscale/participation_requirements"
+      },
+      "verified_on": "2026-10-28",
+      "sources": [
+        "https://upscale.trade/crypto",
+        "https://upscale.trade/llms.txt",
+        "https://docs.upscale.trade/how-to-join-upscale/participation_requirements",
+        "https://docs.upscale.trade/how-upscale-works/withdrawal_rules",
+        "https://app.upscale.trade/terms-of-use-upscale.pdf"
+      ]
+    }
+  ]
+}
